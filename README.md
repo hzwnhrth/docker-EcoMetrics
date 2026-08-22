@@ -43,8 +43,8 @@ Want to run EcoMetrics locally? Follow these steps:
 ### Option A — Node
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/hzwnhrth/EcoMetrics.git
-   cd EcoMetrics
+   git clone https://github.com/hzwnhrth/docker-EcoMetrics.git
+   cd docker-EcoMetrics
    ```
 
 2. **Install dependencies**
